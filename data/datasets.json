@@ -1,0 +1,15 @@
+
+[
+  {
+    "name": "AMOS",
+    "modality": "CT",
+    "organs": "Abdomen",
+    "link": "https://amos2022.grand-challenge.org/"
+  },
+  {
+    "name": "BTCV",
+    "modality": "CT",
+    "organs": "Liver, Spleen, Kidney",
+    "link": "https://www.synapse.org/#!Synapse:syn3193805/wiki/217789"
+  }
+]
